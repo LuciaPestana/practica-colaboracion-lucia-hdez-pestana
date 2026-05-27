@@ -1,4 +1,4 @@
-# Práctica de Colaboración con Ramas
+# Practica de Colaboración con Ramas
 
 Este repositorio contiene la práctica guiada de Git y GitHub para aprender a trabajar en equipo utilizando ramas, colaboradores, *issues* y *pull requests*.
 
