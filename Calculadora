@@ -1,4 +1,15 @@
 public class Calculadora {
+// Suma
+public int sumar(int a, int b, int c) {
+return a + b + c;
+}
+// Resta
+public int restar(int a, int b) {
+return a - b;
+}
+// Multiplicación
+##########Modificación del metodo que hace la multiplicacion
+##############MAR
 
     // Nueva variable añadida
     String desarrollador = "MAR";
